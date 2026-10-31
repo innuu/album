@@ -1,12 +1,22 @@
 {
   "site": {
-    "name": "Nama Kamu",
+    "name": "ayahku",
     "title": "Cahaya, jalan, dan wajah yang saya temui.",
     "intro": "Saya Nama Kamu. Di sini saya menyimpan foto dari perjalanan, alam, dan orang-orang yang sempat berhenti di depan kamera.",
     "quote": "Foto terbaik jarang direncanakan. Biasanya ia datang saat saya sedang menunggu hal lain.",
     "story": "Saya mulai memotret dengan kamera pinjaman dan tidak pernah benar-benar berhenti. Yang saya cari tetap sama sejak awal: cahaya yang jujur dan momen yang tidak dibuat-buat.\n\nSetiap foto di galeri ini punya ceritanya sendiri, dari kabut pagi di dataran tinggi sampai tawa orang asing di gang sempit. Kalau ada yang menarik perhatianmu, klik fotonya dan lihat lebih dekat.",
-    "email": "nama@email.com",
-    "instagram": ""
+    "email": "wisnubayusamudra3@email.com",
+    "instagram": "https://instagram.com/wisnu.077"
   },
-  "photos": []
+  "photos": [
+    {
+      "file": "photos/1793418573528-0.jpg",
+      "t": "BeautyPlus 20231106073638670 save",
+      "p": "rumah",
+      "y": 2026,
+      "c": "alam",
+      "w": 839,
+      "h": 1143
+    }
+  ]
 }
