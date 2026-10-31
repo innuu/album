@@ -1,20 +1,29 @@
 {
   "site": {
-    "name": "ayahku",
-    "title": "Cahaya, jalan, dan wajah yang saya temui.",
-    "intro": "Saya Nama Kamu. Di sini saya menyimpan foto dari perjalanan, alam, dan orang-orang yang sempat berhenti di depan kamera.",
+    "name": "Wisnu Studio",
+    "title": "Nikmati Masa Muda Mu, Persiapkan Masa Tua mu.",
+    "intro": "Saya Wisnu di sini tempat menyimpan foto dari perjalanan, alam, dan orang-orang yang sempat berhenti di depan kamera.",
     "quote": "Foto terbaik jarang direncanakan. Biasanya ia datang saat saya sedang menunggu hal lain.",
-    "story": "Saya mulai memotret dengan kamera pinjaman dan tidak pernah benar-benar berhenti. Yang saya cari tetap sama sejak awal: cahaya yang jujur dan momen yang tidak dibuat-buat.\n\nSetiap foto di galeri ini punya ceritanya sendiri, dari kabut pagi di dataran tinggi sampai tawa orang asing di gang sempit. Kalau ada yang menarik perhatianmu, klik fotonya dan lihat lebih dekat.",
+    "story": "belum tau ah",
     "email": "wisnubayusamudra3@email.com",
     "instagram": "https://instagram.com/wisnu.077"
   },
   "photos": [
     {
+      "file": "photos/1793418897223-0.jpg",
+      "t": "Lautan Awan",
+      "p": "Bulubaria",
+      "y": 2025,
+      "c": "alam",
+      "w": 1500,
+      "h": 2000
+    },
+    {
       "file": "photos/1793418573528-0.jpg",
       "t": "BeautyPlus 20231106073638670 save",
       "p": "rumah",
       "y": 2026,
-      "c": "alam",
+      "c": "potret",
       "w": 839,
       "h": 1143
     }
